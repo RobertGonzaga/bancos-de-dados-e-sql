@@ -15,6 +15,7 @@ Modelo relacional da base `escola_db`, gerado a partir do script de criação �
 
 ## Relacionamentos
 
+
 ```
 professores ─┐
              ├──< turmas >──┐
